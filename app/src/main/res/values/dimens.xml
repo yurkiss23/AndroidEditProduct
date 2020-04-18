@@ -1,0 +1,33 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="card_view_margin">8dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="bg_cover_height">180dp</dimen>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="divider_size">8dp</dimen>
+    <dimen name="_4dp">4dp</dimen>
+
+    <dimen name="shr_product_grid_spacing">10dp</dimen>
+    <dimen name="shr_product_grid_spacing_small">4dp</dimen>
+
+    <dimen name="shr_user_grid_spacing">10dp</dimen>
+    <dimen name="shr_user_grid_spacing_small">4dp</dimen>
+
+
+
+    <dimen name="shr_product_card_image_height">108dp</dimen>
+
+    <dimen name="shr_product_grid_reveal_height">200dp</dimen>
+
+    <!-- Dimens for staggered asymmetric grid layout cards-->
+    <dimen name="shr_staggered_product_grid_spacing_large">30dp</dimen>
+    <dimen name="shr_staggered_product_grid_spacing_small">26dp</dimen>
+    <dimen name="shr_staggered_product_grid_margin_top_first">72dp</dimen>
+    <dimen name="shr_staggered_product_grid_margin_top_second">56dp</dimen>
+    <dimen name="shr_staggered_product_grid_margin_top_third">152dp</dimen>
+    <dimen name="shr_staggered_product_grid_card_width_portrait">165dp</dimen>
+    <dimen name="shr_staggered_product_grid_card_height_portrait">247dp</dimen>
+    <dimen name="shr_staggered_product_grid_card_width_landscape">188dp</dimen>
+    <dimen name="shr_staggered_product_grid_card_height_landscape">140dp</dimen>
+</resources>

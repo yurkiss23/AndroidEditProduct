@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/table"
+        android:icon="@drawable/ic_camera_black_24dp"
+        android:title="table"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/home"
+        android:title="головна"
+        app:showAsAction="never" />
+    <item android:id="@+id/listviewitem"
+        android:title="список"
+        app:showAsAction="never" />
+    <item android:id="@+id/listviewsimpleitem"
+        android:title="простий список"
+        app:showAsAction="never" />
+    <item android:id="@+id/logout"
+        android:title="вихід"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/edit"
+        android:title="Правка"
+        app:showAsAction="never">
+        <menu>
+            <item android:id="@+id/edit_copy"
+                android:title="Копіювати"/>
+            <item android:id="@+id/edit_past"
+                android:title="Вставити"/>
+        </menu>
+    </item>
+</menu>

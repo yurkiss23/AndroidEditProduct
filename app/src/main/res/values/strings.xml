@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">CWork</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello">hello</string>
+
+    <string name="shr_product_title">Назва продукта</string>
+    <string name="shr_product_description">Опис продукта</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_header">Вхід</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="title_placeholder">Заголовок</string>
+    <string name="news_placeholder">Новина</string>
+    <string name="sports_info_placeholder">Опис новини</string>
+    <string name="empty_screen">We do not have anything\nhere right now. Please Retry</string>
+    <string name="btn_retry">Retry</string>
+    <string name="reload">Перезавантажити</string>
+    <string name="button_add">Додати</string>
+    <string name="button_cancel">Скасувати</string>
+    <string name="product_price">Ціна</string>
+    <string name="button_edit">Редагувати</string>
+
+    <string-array name="sports_images">
+        <item>https://www.imgacademy.com/sites/default/files/venue-baseball-pg11.jpg</item>
+        <item>https://vse-kursy.com/uploads/posts/2019-09/1568985019_badminton-1428046_1920.jpg</item>
+        <item>https://www.mhsaa.com/portals/0/Photos/SportPhotos/BBB-Home.jpg</item>
+        <item>https://hackaday.com/wp-content/uploads/2019/11/guided-ball-feature.jpg?w=800</item>
+        <item>https://www.bikebiz.com/wp-content/uploads/Cycling-UK-Scotland.png</item>
+        <item>https://www.flytap.com/-/media/Flytap/Stopover/Stopover-golf/flytap_Golf_Banner-1920x651.png</item>
+        <item>https://www.suunto.com/globalassets/suunto-blogs/2017/june/running-drills/drills-1500px.jpg</item>
+        <item>https://content.gotsoccer.com/img/header/header-boys2.jpg</item>
+        <item>https://www.lawinsport.com/media/zoo/images/swimming_competition_5a324456d576d211e7c604bc0edb9e76.jpg</item>
+        <item>https://s3-ap-southeast-2.amazonaws.com/macquarie-ish-oncourse/8f4a39a6-1d3a-446f-9134-537eb4ca23e1</item>
+        <item>https://visitmarrakech.ma/ru/wp-content/uploads/2019/03/mainpic_tennis.jpg</item>
+    </string-array>
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Nike Enters 10-Year Partnership With Major League Baseball! </item>
+        <item>Indonesia Masters &#8211; Saina Nehwal sails into semifinals PV Sindhu, Kidambi Srikanth lose in quarters!</item>
+        <item>College Basketball 2018&#8211;19 Player of the Year Power Rankings Everyone is chasing Dukes Zion Williamson!</item>
+        <item>Local bowler lands 132 perfect games, shares his secret for success!</item>
+        <item>Sierra solos to win at womens Cadel Evans Great Ocean Road Race!</item>
+        <item>Tiger Woods Friday live blog: Woods overcomes mid-round hiccup to make the cut at Torrey Pines!</item>
+        <item>The 5km fun run was organised by Ironman England as part of its annual three-day triathlon festival in Bolton, Manchester in a bid to attract more female runners to the event!</item>
+        <item>Soccer insider notes: Liverpool not the only Premier League club eyeing Weston McKennie!</item>
+        <item>Chloe Grimme, a USA Swimming Scholastic All American from Land O Lakes, Florida, announced on social media that she has verbally committed to the University of Florida for 2020&#8211;21!</item>
+        <item>Table Tennis Federation Revokes Soumyajit Ghoshs Suspension, 9 Months After Rape Allegations!</item>
+        <item>2019 Australian Open odds, predictions for mens finals!</item>
+    </string-array>
+</resources>
